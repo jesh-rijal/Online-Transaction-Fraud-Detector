@@ -99,16 +99,29 @@ An interactive web app allows users to:
 
 ## 🚀 How to Run the Project
 
-### 1️⃣ Clone the Repository
+### 1️⃣ Open Git Bash
+
+### 2️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/fraud-detection.git
-cd fraud-detection
+git clone https://github.com/jesh-rijal/Online-Transaction-Fraud-Detector.git
+```
+
+### 3️⃣ Move into the Project Folder
+
+```bash
+cd Online-Transaction-Fraud-Detector
+```
+
+### 4️⃣ Open the Project in VS Code
+
+```bash
+code .
 ```
 
 ---
 
-### 2️⃣ Install Dependencies
+### 5️⃣ Install Dependencies
 
 ```bash
 pip install -r requirements.txt
@@ -122,7 +135,8 @@ pip install streamlit scikit-learn pandas numpy joblib
 
 ---
 
-### 3️⃣ Run the Application
+### 6️⃣ Run the Application
+In Terminal
 
 ```bash
 streamlit run app.py
@@ -130,7 +144,7 @@ streamlit run app.py
 
 ---
 
-### 4️⃣ Open in Browser
+### 7️⃣ Open in Browser
 
 ```
 http://localhost:8501
@@ -208,7 +222,10 @@ This project demonstrates an effective fraud detection system using machine lear
 
 ## 👨‍💻 Author
 
-Rajesh Rijal
+```
+Name: Jesh Rijal
+GitHub: [My Github Profile](https://github.com/jesh-rijal)
+```
 
 ---
 
